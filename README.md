@@ -7,3 +7,4 @@
 - Удалению (Delete)
 
 Реализованы like/dislike, добавление изменение и удаление постов, лоадер.
+![Opera1](https://user-images.githubusercontent.com/100845659/193724310-d6109f3a-d283-4257-b08d-1acc79e5a425.png)
